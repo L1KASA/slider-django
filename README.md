@@ -2,6 +2,17 @@
 
 Лендинговая страница космического агентства, выполненная по макету из Figma.
 
+<table>
+  <tr>
+    <th>Десктопная версия</th>
+    <th>Мобильная версия</th>
+  </tr>
+  <tr>
+    <td><img width="1440" height="2011" alt="Лендинг, десктоп@2x" src="https://github.com/user-attachments/assets/3ea5fa64-88a9-47fe-ac90-ccc69433b736" /></td>
+    <td><img width="375" height="1599" alt="Все блоки" src="https://github.com/user-attachments/assets/92b08504-bdcd-4c5b-8c12-04040ec79189" /></td>
+  </tr>
+</table>
+
 ## О проекте
 
 Данный проект представляет собой одностраничный сайт с информацией о космическом агентстве. Включает в себя:

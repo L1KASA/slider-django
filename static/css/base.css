@@ -19,3 +19,26 @@ body {
   background: var(--dark-grey);
   font-family: var(--font-family);
 }
+
+.container,
+.container-fluid {
+  padding-left: 150px !important;
+  padding-right: 150px !important;
+}
+
+@media (max-width: 992px) {
+  .container,
+  .container-fluid {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .container,
+  .container-fluid {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
